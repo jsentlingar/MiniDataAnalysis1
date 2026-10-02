@@ -18,7 +18,7 @@ To use the files in this repo:
 
 1. Install R, positron or RStudio, and Quarto
 2. Download needed packages: tidyverse, diversedata and moderndive.
-    a. "diversedata" isn't on CRAN, so you must install it with pak::pak("diverse-data-hub/diversedata")
+    - "diversedata" isn't on CRAN, so you must install it with pak::pak("diverse-data-hub/diversedata")
 3. Clone/Download Repository
 4. Open MiniDataAnalysis1.qmd
 5. Render the file
